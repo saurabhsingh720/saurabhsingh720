@@ -70,28 +70,31 @@
 
 <hr>
 <h3> 🛠 &nbsp;Tech Stack</h3>
-- 💻 &nbsp;
-  ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
+ &nbsp;
+  
+   
+&nbsp;  
+❣ 💻  &nbsp; ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
   ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
-  ![Python](https://img.shields.io/badge/-Pyhton-000000?style=for-the-badge&logo=Python)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-- 🌐 &nbsp;
+  ![Python](https://img.shields.io/badge/-Pyhton-000000?style=for-the-badge&logo=Python)<br>
+  
+❣ 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5) 
   ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap)
-  ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React)
   ![ExpressJS](https://img.shields.io/badge/-Express.JS-000000?style=for-the-badge&logo=Express.JS)
-  ![NodeJS](https://img.shields.io/badge/-Node.JS-000000?style=for-the-badge&logo=Node.JS)
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
+  ![NodeJS](https://img.shields.io/badge/-Node.JS-000000?style=for-the-badge&logo=Node.JS)<br>
   
+❣ 🛢 &nbsp;
+  ![Mysql](https://img.shields.io/badge/-Mysql-000000?style=for-the-badge&logo=Mysql)
+  <br>
   
-- ⚙️ &nbsp;
+❣ ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
   ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)
-  
-- 🔧 &nbsp;
+<br>  
+❣ 🔧 &nbsp;
     ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=for-the-badge&logo=Ubuntu)
     ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-000000?style=for-the-badge&logo=VisualStudioCode)
   

@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🎓 I'm pursuing my Btech in **Computer Science and Engineering** branch from **Madan Mohan Malaviya University of Technology**, Gorakhpur
+- 🎓 I'm pursuing my B.Tech in **Computer Science and Engineering** branch from **Madan Mohan Malaviya University of Technology**, Gorakhpur
 - 🔭 I’m currently working on **GDSC Website**
 
 - 🌱 I’m currently learning : **Java, DSA**

@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
   </a>&nbsp
   
-  <a href="https://www.instagram.com/saurabhsmile720/">
+  <a href="https://www.instagram.com/itz_enzo_saurabh/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>&nbsp
   <a href="">

@@ -17,7 +17,7 @@
 
 - 👨‍💻 My Portfolio :[https://saurabhsingh720.github.io/portfolio1/](https://saurabhsingh720.github.io/portfolio1/)
 
-- 💬 Ask me about: **C, C++, Java**
+- 💬 Ask me about: **C, C++, Java, DSA**
 
 - 📫 How to reach me : [**linkedin**: @Saurabh](https://www.linkedin.com/in/saurabh-singh-ab008b228/) , [**Linktree**: @Saurabh](https://linktr.ee/SaurabhSingh720?fbclid=PAAabjZyyVJZICy_D16UPaiuX5v_VBT_c7enVMQrNdUiOJVNy1-MZQ8GzZ4U0)
 <br>

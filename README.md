@@ -76,6 +76,7 @@
 &nbsp;  
 ❣ 💻  &nbsp; ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
   ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+  ![DSA](https://img.shields.io/badge/-DSA-000000?style=for-the-badge&logo=DSA)
   ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
   ![Python](https://img.shields.io/badge/-Pyhton-000000?style=for-the-badge&logo=Python)<br>
   

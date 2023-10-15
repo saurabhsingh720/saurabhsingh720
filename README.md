@@ -24,8 +24,8 @@
 <hr>
 <h3 align="left">❣ @saurabhsingh720 Holopin board:</h3>
 <br/>
-  <a href="https://holopin.me/saurabhsmile720">
-    <img src="https://holopin.io/@saurabhsmile720">
+  <a href="https://holopin.io/@saurabhsmile720">
+    <img src="https://holopin.me/saurabhsmile720">
   </a>
 <h3 align="left">❣	Connect with me:</h3>
 <p align="left">

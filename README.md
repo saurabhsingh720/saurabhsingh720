@@ -22,7 +22,8 @@
 - 📫 How to reach me : [**linkedin**: @Saurabh](https://www.linkedin.com/in/saurabh-singh-ab008b228/) , [**Linktree**: @Saurabh](https://linktr.ee/SaurabhSingh720?fbclid=PAAabjZyyVJZICy_D16UPaiuX5v_VBT_c7enVMQrNdUiOJVNy1-MZQ8GzZ4U0)
 <br>
 <hr>
-
+<h3 align="left">❣ Hacktoberfest Badges:</h3>
+[![An image of @saurabhsmile720's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saurabhsmile720)](https://holopin.io/@saurabhsmile720)
 <h3 align="left">❣	Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/saurabh-singh-ab008b228/">

@@ -2,6 +2,7 @@
 <h2 align="center">Hi there👋 this is **Saurabh Singh** 🙂</h2>
 
 <h3 align="center">❣Coder as well as Developer from India  </h3>
+                          Web Developer | Open Source Contributor | Competitive Programmer | DSA
 
 <hr>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -109,4 +110,4 @@
   
 <br><hr>
 
-
+[![Saurabh720's GitHub | Stats](https://stats.quira.sh/Saurabh720/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Saurabh720)

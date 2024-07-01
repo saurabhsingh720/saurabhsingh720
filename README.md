@@ -2,8 +2,6 @@
 <h2 align="center">Hi there👋 this is **Saurabh Singh** 🙂</h2>
 
 <h3 align="center">❣Coder as well as Developer from India  </h3>
-                          Web Developer | Open Source Contributor | Competitive Programmer | DSA
-
 <hr>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -76,7 +74,7 @@
 <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=saurabhsingh720&show_icons=true&locale=en&theme=tokyonight" alt="saurabhsingh720" />
 </p>
 
-
+<br>
 <hr>
 <h3> 🛠 &nbsp;Tech Stack</h3>
  &nbsp;
@@ -107,7 +105,13 @@
 ❣ 🔧 &nbsp;
     ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=for-the-badge&logo=Ubuntu)
     ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-000000?style=for-the-badge&logo=VisualStudioCode)
-  
-<br><hr>
+  <br><hr>
 
+## ❣  Github Stats
 [![Saurabh720's GitHub | Stats](https://stats.quira.sh/Saurabh720/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Saurabh720)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=saurabhsingh720&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=saurabhsingh720&limit=5&theme=dark&combine_all_yearly_contributions=true)

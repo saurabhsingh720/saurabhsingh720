@@ -72,10 +72,10 @@
 </p>
 <p>
  
-<img align="left"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurabhsingh720&theme=2077" height="190em" alt="saurabhsingh720" />
+<img align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurabhsingh720&theme=2077" height="190em" alt="saurabhsingh720" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saurabhsingh720&theme=2077" height="190em" alt=" saurabhsingh720" />
 
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saurabhsingh720&theme=2077" height="190em" alt="saurabhsingh720" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saurabhsingh720&theme=2077" height="190em" alt="saurabhsingh720" />
 <img align="center" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabhsingh720&theme=2077" height="200em" alt="saurabhsingh720" />
 </p>
 <br>

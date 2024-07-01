@@ -67,13 +67,17 @@
 
 <p>
 <img width="40%" align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhsingh720&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="saurabhsingh720" />
-
 <img align="center" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhsingh720&theme=tokyonight" alt="saurabhsingh720" />
-
-
-<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=saurabhsingh720&show_icons=true&locale=en&theme=tokyonight" alt="saurabhsingh720" />
+<img align="center" width="40%" height="250em" src="https://github-readme-stats.vercel.app/api?username=saurabhsingh720&show_icons=true&locale=en&theme=tokyonight" alt="saurabhsingh720" />
 </p>
+<p>
+ 
+<img align="left"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurabhsingh720&theme=2077" height="190em" alt="saurabhsingh720" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saurabhsingh720&theme=2077" height="190em" alt=" saurabhsingh720" />
 
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saurabhsingh720&theme=2077" height="190em" alt="saurabhsingh720" />
+<img align="center" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabhsingh720&theme=2077" height="200em" alt="saurabhsingh720" />
+</p>
 <br>
 <hr>
 <h3> 🛠 &nbsp;Tech Stack</h3>
